@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portifolio2.0/static/css/main.bf538fe7.css",
+    "main.js": "/portifolio2.0/static/js/main.cb337b69.js",
+    "static/media/daviia.jpg": "/portifolio2.0/static/media/daviia.2821de67c9f3e6bf0730.jpg",
+    "index.html": "/portifolio2.0/index.html",
+    "main.bf538fe7.css.map": "/portifolio2.0/static/css/main.bf538fe7.css.map",
+    "main.cb337b69.js.map": "/portifolio2.0/static/js/main.cb337b69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.cb337b69.js"
+  ]
+}
