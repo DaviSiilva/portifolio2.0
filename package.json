@@ -1,7 +1,7 @@
 {
   "name": "davi-gomes-portfolio",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://davisiilva.github.io/portifolio2.0/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.12.1",
