@@ -4,7 +4,7 @@ export const Bio = {
     "Desenvolvedor Full Stack",
     "Desenvolvedor Front End",
     "Desenvolvedor Back End",
-    "Programador Web",
+    "Desenvolvedor Web",
   ],
   description:
     "Apaixonado por criar soluções tecnológicas inovadoras e eficazes. Com uma base sólida em HTML, CSS, JavaScript, Bootstrap, ReactJS, TypeScript, ExpressJS, Node.js, MySQL e MongoDB estou sempre buscando maneiras de expandir meu conhecimento e aprimorar minhas habilidades.",
