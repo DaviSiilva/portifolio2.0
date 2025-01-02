@@ -10,7 +10,7 @@ export const Bio = {
     "Apaixonado por criar soluções tecnológicas inovadoras e eficazes. Com uma base sólida em HTML, CSS, JavaScript, Bootstrap, ReactJS, TypeScript, ExpressJS, Node.js, MySQL e MongoDB estou sempre buscando maneiras de expandir meu conhecimento e aprimorar minhas habilidades.",
   github: "https://github.com/DaviSiilva",
   resume:
-    "https://drive.google.com/file/d/1mac8pnemFHMgUl9HH3w9UsOHR8PZTMLh/view?usp=drive_link",
+    "https://drive.google.com/file/d/1SHUe7kwK95S-zP5hDybRzzWQYNzvozPS/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/davi-silva-gomes-5b4b0a318/",
   twitter: "#",
   insta: "https://www.instagram.com/davi_sliva01/",
