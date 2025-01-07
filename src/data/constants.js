@@ -225,6 +225,24 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "QUIZ DO MILHÃO",
+    date: "2025",
+    description:
+      "O Quiz do Milhão é um projeto desenvolvido como parte dos meus estudos em React.js, inspirado no famoso formato de perguntas e respostas. O objetivo do jogo é proporcionar uma experiência interativa onde o usuário pode testar seus conhecimentos em diferentes tópicos e avançar nas perguntas para alcançar o prêmio final fictício.",
+    image:
+      "https://github.com/user-attachments/assets/02f47856-d8a1-4b3a-9618-31f772a9af5f",
+    tags: [
+      "React.js",
+      "JavaScript (ES6+)",
+      "HTML",
+      "CSS", 
+    ],
+    category: "web app",
+    github: "https://github.com/DaviSiilva/MillionaireQuiz",
+    webapp: "https://quizdmilhao.netlify.app/",
+  },
+  {
+    id: 1,
     title: "FOODIE",
     date: "2024",
     description:
@@ -234,14 +252,14 @@ export const projects = [
     tags: [
       "JavaScript",
       "HTML",
-      "DCSS", 
+      "CSS", 
     ],
     category: "web app",
     github: "https://github.com/DaviSiilva/foodie",
     webapp: "https://davisiilva.github.io/foodie/",
   },
   {
-    id: 1,
+    id: 2,
     title: "Weather App",
     date: "2024",
     description:
@@ -254,7 +272,7 @@ export const projects = [
     webapp: "https://davisiilva.github.io/WeatherApp/",
   },
   {
-    id: 2,
+    id: 3,
     title: "",
     date: "",
     description:
@@ -281,7 +299,7 @@ export const projects = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     title: "Flappy bird",
     date: "2024",
     description:
@@ -294,7 +312,7 @@ export const projects = [
     webapp: "https://davisiilva.github.io/gamer/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Calculadora",
     date: "2024",
     description:
@@ -307,7 +325,7 @@ export const projects = [
     webapp: "https://davisiilva.github.io/calculadora/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Jogo do Dado",
     date: "2024",
     description:
@@ -320,7 +338,7 @@ export const projects = [
     webapp: "https://davisiilva.github.io/gamerdice/",
   },
   {
-    id: 6,
+    id: 7,
     title: "Calculadora IMC",
     date: "2024",
     description:
@@ -333,7 +351,7 @@ export const projects = [
     webapp: "https://davisiilva.github.io/calculadora-IMC/",
   },
   {
-    id: 7,
+    id: 8,
     title: "GODLINS",
     date: "2024",
     description:
